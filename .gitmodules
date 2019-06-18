@@ -1,0 +1,32 @@
+[submodule "rpm/dhd"]
+	path = rpm/dhd
+	url = https://github.com/mer-hybris/droid-hal-device
+[submodule "fw-api"]
+	path = fw-api
+	url = https://github.com/sonyxperiadev/vendor-qcom-opensource-wlan-fw-api
+[submodule "qca-wifi-host-cmn"]
+	path = qca-wifi-host-cmn
+	url = https://github.com/sonyxperiadev/vendor-qcom-opensource-wlan-qca-wifi-host-cmn
+[submodule "qcacld-3.0"]
+	path = qcacld-3.0
+	url = https://github.com/sonyxperiadev/vendor-qcom-opensource-wlan-qcacld-3.0
+[submodule "kernel/sony/msm-4.9/kernel"]
+	path = kernel/sony/msm-4.9/kernel
+	url = https://github.com/mer-hybris/android_kernel_sony_msm
+	branch = hybris-sony-aosp-9.0.0_r35_20190512
+[submodule "hybris/hybris-boot"]
+	path = hybris/hybris-boot
+	url = https://github.com/mer-hybris/hybris-boot
+[submodule "hybris/mer-kernel-check"]
+	path = hybris/mer-kernel-check
+	url = https://github.com/mer-hybris/mer-kernel-check
+[submodule "hybris/libhybris"]
+	path = hybris/mw/libhybris
+	url = https://github.com/mer-hybris/libhybris
+	branch = egl_libs
+[submodule "hybris/busybox"]
+	path = hybris/busybox
+	url = https://github.com/mer-hybris/android_external_busybox_prebuilt
+[submodule "hybris/selinux_stubs"]
+	path = hybris/selinux_stubs
+	url = https://github.com/krnlyng/android_external_selinux_stubs
