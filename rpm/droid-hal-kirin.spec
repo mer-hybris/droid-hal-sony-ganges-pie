@@ -1,7 +1,6 @@
 %define device kirin
 %define vendor sony
 
-%define rpm_device i4113
 %define rpm_vendor qualcomm
 
 %define vendor_pretty Sony
@@ -11,7 +10,7 @@
 
 %define have_custom_img_boot 1
 %define have_custom_img_recovery 1
-%define lunch_device aosp_%{rpm_device}-user
+%define lunch_device aosp_i4113-user
 
 # want adreno quirks is required for browser at least, and other subtle issues
 %define android_config \
