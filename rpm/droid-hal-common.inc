@@ -13,7 +13,6 @@
 %{nil}
 
 %define straggler_files \
-/bin \
 /bt_firmware \
 /bugreports \
 /cache \
