@@ -13,7 +13,7 @@
 [submodule "kernel/sony/msm-4.9/kernel"]
 	path = kernel/sony/msm-4.9/kernel
 	url = https://github.com/mer-hybris/android_kernel_sony_msm
-	branch = hybris-sony-aosp-9.0.0_r35_20190512
+	branch = hybris-sony-aosp-9.0.0_r37_20190620
 [submodule "hybris/hybris-boot"]
 	path = hybris/hybris-boot
 	url = https://github.com/mer-hybris/hybris-boot
