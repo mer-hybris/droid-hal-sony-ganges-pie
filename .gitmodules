@@ -29,4 +29,4 @@
 	url = https://github.com/mer-hybris/android_external_busybox_prebuilt
 [submodule "hybris/selinux_stubs"]
 	path = hybris/selinux_stubs
-	url = https://github.com/krnlyng/android_external_selinux_stubs
+	url = https://github.com/mer-hybris/android_external_selinux_stubs
