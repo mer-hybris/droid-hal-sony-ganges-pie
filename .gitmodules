@@ -1,5 +1,5 @@
-[submodule "rpm/dhd"]
-	path = rpm/dhd
+[submodule "dhd"]
+	path = dhd
 	url = https://github.com/mer-hybris/droid-hal-device
 [submodule "fw-api"]
 	path = fw-api
