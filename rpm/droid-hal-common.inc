@@ -39,4 +39,3 @@ Requires: droid-system-vendor
 
 Source99: droid-hal-common.inc
 
-%include dhd/droid-hal-device.inc
