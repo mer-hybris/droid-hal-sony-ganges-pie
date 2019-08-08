@@ -2,6 +2,8 @@
 
 %define rpm_vendor qualcomm
 
+%define dhd_path dhd
+
 %define droid_target_aarch64 1
 
 %define have_custom_img_boot 1
@@ -37,3 +39,4 @@ Requires: droid-system-vendor
 
 Source99: droid-hal-common.inc
 
+%include dhd/droid-hal-device.inc
