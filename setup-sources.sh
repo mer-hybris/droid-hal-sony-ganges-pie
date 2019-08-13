@@ -1,6 +1,6 @@
 #!/bin/bash
 
-/bin/bash apply-patches.sh $1
+/bin/bash hybris-patches/apply-patches.sh $1
 
 # move kernel subdirs into the right place
 rmdir kernel/sony/msm-4.9/kernel/drivers/staging/wlan-qc/fw-api

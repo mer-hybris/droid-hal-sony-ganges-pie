@@ -23,10 +23,13 @@
 [submodule "hybris/libhybris"]
 	path = hybris/mw/libhybris
 	url = https://github.com/mer-hybris/libhybris
-	branch = egl_libs
 [submodule "hybris/busybox"]
 	path = hybris/busybox
 	url = https://github.com/mer-hybris/android_external_busybox_prebuilt
 [submodule "hybris/selinux_stubs"]
 	path = hybris/selinux_stubs
 	url = https://github.com/mer-hybris/android_external_selinux_stubs
+[submodule "hybris-patches"]
+	path = hybris-patches
+	url = https://github.com/mer-hybris/hybris-patches
+	branch = hybris-sony-aosp-pie
