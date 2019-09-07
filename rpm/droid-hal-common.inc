@@ -36,8 +36,6 @@ Requires: droid-system-vendor
 %define pre_actions /bin/sh setup-sources.sh
 
 %define droid_src_build 1
-# Required by droid_src_build
-Source0: droid-hal-%{device}-%{version}.tar.bz2
 
 Source99: droid-hal-common.inc
 
