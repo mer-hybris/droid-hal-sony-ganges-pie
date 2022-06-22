@@ -3,13 +3,13 @@
 	url = https://github.com/mer-hybris/droid-hal-device
 [submodule "fw-api"]
 	path = fw-api
-	url = https://github.com/sonyxperiadev/vendor-qcom-opensource-wlan-fw-api
+	url = https://github.com/sailfishos-mirror/vendor-qcom-opensource-wlan-fw-api
 [submodule "qca-wifi-host-cmn"]
 	path = qca-wifi-host-cmn
-	url = https://github.com/sonyxperiadev/vendor-qcom-opensource-wlan-qca-wifi-host-cmn
+	url = https://github.com/sailfishos-mirror/vendor-qcom-opensource-wlan-qca-wifi-host-cmn
 [submodule "qcacld-3.0"]
 	path = qcacld-3.0
-	url = https://github.com/sonyxperiadev/vendor-qcom-opensource-wlan-qcacld-3.0
+	url = https://github.com/sailfishos-mirror/vendor-qcom-opensource-wlan-qcacld-3.0
 [submodule "kernel/sony/msm-4.9/kernel"]
 	path = kernel/sony/msm-4.9/kernel
 	url = https://github.com/mer-hybris/android_kernel_sony_msm
