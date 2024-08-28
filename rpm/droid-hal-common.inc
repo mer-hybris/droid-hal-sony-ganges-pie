@@ -21,7 +21,6 @@
 /d \
 /dsp \
 /firmware \
-/odm \
 /persist \
 /product \
 /sdcard \
