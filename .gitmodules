@@ -22,7 +22,7 @@
 	url = https://github.com/mer-hybris/mer-kernel-check
 [submodule "hybris/libhybris"]
 	path = hybris/mw/libhybris
-	url = https://github.com/mer-hybris/libhybris
+	url = https://github.com/mlehtima/libhybris
 [submodule "hybris/busybox"]
 	path = hybris/busybox
 	url = https://github.com/mer-hybris/android_external_busybox_prebuilt
